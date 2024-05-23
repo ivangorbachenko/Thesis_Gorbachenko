@@ -1,0 +1,7 @@
+path: /Users/ivan_gorbachenko/Desktop/machine learning/stomata_count/dataset # dataset root dir
+train: /Users/ivan_gorbachenko/Desktop/machine learning/stomata_count/dataset/train  # train images (relative to 'path')
+val: /Users/ivan_gorbachenko/Desktop/machine learning/stomata_count/dataset/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: stomata
